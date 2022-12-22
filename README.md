@@ -8,7 +8,6 @@ Jobsheet 3 Embedded System  TOPOLOGI JARINGAN LOKAL DAN WIFI
 
 Percobaan a.  ESP32 Wi-Fi Modes dan Wifi-Scan
 
-![WhatsApp Image 2022-12-21 at 16 35 58](https://user-images.githubusercontent.com/121158751/208882871-125fce13-12fd-4ae6-a10f-cf15c665a6da.jpeg)
 
 
 Hasil Percobaan :
