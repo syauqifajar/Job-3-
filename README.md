@@ -2,9 +2,7 @@
 Jobsheet 3 Embedded System  TOPOLOGI JARINGAN LOKAL DAN WIFI
 
 
-Memiliki bentuk rangkaian sebagai berikut,
 
-![WhatsApp Image 2022-12-21 at 16 35 58](https://user-images.githubusercontent.com/121158751/208882815-b42eb929-c8e7-4883-93e6-af35fdfa2234.jpeg)
 
 
 
