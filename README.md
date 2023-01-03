@@ -23,9 +23,11 @@ radio yang berwujud sinyal ini lalu dikirim menuju router yang fungsinya untukme
 
 
 
-
+C. LANGKAH PERCOBAAN
 
 Percobaan a.  ESP32 Wi-Fi Modes dan Wifi-Scan
+
+1. run program pada file job3_A
 
 
 
