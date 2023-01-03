@@ -52,9 +52,7 @@ Berdasarkan data perocbaan diatas dapat dilihat bahwa ESP32 berhasil terkoneksi 
 Percobaan c.  Menghubungkan Kembali (Re-connect) ESP32 dengan Jaringan Wi-Fi
 
 1. run program pada file job_3_C
-2.Buka serial monitor, kemudian matikan paket data sebentar hingga koneksi
-ESP32 dengan jaringna Wi-Fi terputus. Setelah itu, nyalakan lagi paket data.
-Dokumentasikan proses yang terjadi.
+2. Buka serial monitor Buka serial monitor, kemudian matikan paket data sebentar hingga koneksiESP32 dengan jaringna Wi-Fi terputus. Setelah itu, nyalakan lagi paket      data. Dokumentasikan proses yang terjadi.
 
 
 ![C](https://user-images.githubusercontent.com/121158751/208883067-bc574e16-f1e6-42dd-a2d2-7feacebac499.png)
