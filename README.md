@@ -27,7 +27,8 @@ C. LANGKAH PERCOBAAN
 
 Percobaan a.  ESP32 Wi-Fi Modes dan Wifi-Scan
 
-1. run program pada file job3_A
+1. run program pada file job_3_A
+2. lalu buka serial monitor untuk melihat outputnya
 
 
 
@@ -40,6 +41,9 @@ Pada percobaan pertama ESP32 berhasil mendeteksi jaringan WI-FI yang tersedia
 
 Percobaan b. Menghubungkan ESP32 dengan Jaringan Wi-Fi
 
+1. run program pada file job_3_B
+2. lalu buka serial monitor untuk melihat outputnya
+
 ![B](https://user-images.githubusercontent.com/121158751/208883010-e5dca2c5-7f23-43ac-8343-23e899844e1a.png)
 
 
@@ -47,12 +51,22 @@ Berdasarkan data perocbaan diatas dapat dilihat bahwa ESP32 berhasil terkoneksi 
 
 Percobaan c.  Menghubungkan Kembali (Re-connect) ESP32 dengan Jaringan Wi-Fi
 
+1. run program pada file job_3_C
+2.Buka serial monitor, kemudian matikan paket data sebentar hingga koneksi
+ESP32 dengan jaringna Wi-Fi terputus. Setelah itu, nyalakan lagi paket data.
+Dokumentasikan proses yang terjadi.
+
+
 ![C](https://user-images.githubusercontent.com/121158751/208883067-bc574e16-f1e6-42dd-a2d2-7feacebac499.png)
 
 
 Pada percobaan di atas dilakukan percobaan unntuk mengkoneksikan ulang ESP dengan jaringan wifi
 
 Percobaan d.  Mengganti Hostname ESP32
+
+1. run program pada file job_3_D
+2. Buka serial monitor, kemudian aktifkan mode koneksi Wi-Fi pada SmartPhone atau Laptop. Lakukan scan dan lihat daftar jaringan Wi-Fi yang
+tersedia. Dokumentasikan hasil keluarannya
 
 ![D](https://user-images.githubusercontent.com/121158751/208883101-ba38a56f-9baa-4846-ada8-995252121303.png)
 
